@@ -1,0 +1,18 @@
+html{
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEWl9PnMeMxQAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=);
+}
+
+.movies{
+  display: flex;
+  text-align: center;
+}
+.item{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.loading{
+  position: relative;
+  left: 50vw;
+  top: 50vh
+}
